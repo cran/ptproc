@@ -1,0 +1,14 @@
+cond.int                Conditional intensity functions 
+CIF.util                Functions for accessing the conditional
+                        intensity 
+fires                   Northern Los Angeles County Fires
+make.box                Get coordinates of a bounding box 
+onedim.diag             One-dimensional Point Process Diagnostics 
+penalty                 Add penalties to point process object 
+ptproc.internal         Internal ptproc functions 
+ptproc.methods          Methods for point process objects 
+ptproc                  Point process constructor 
+ptproc.fit              Fit Point Process Models 
+ptproc.sim              Simulate a point process 
+summary.ptproc          Summary of point process object 
+ptproc.util             Utilities functions for ptproc objects 
